@@ -1,0 +1,14 @@
+{
+    "name": "ematchi",
+    "description": "emoji matching game",
+    "display": "standalone",
+    "start_url": "/",
+    "icons": [
+      {
+        "src": "./myIcon512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ]
+  }
